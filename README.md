@@ -1,9 +1,9 @@
 ## ADB Backup Tool
-This tool uses ADB Pull and Push to backup your files, and dates are intact. That means that you can switch roms or phones without your photos and files getting all messed up and apps no longer think that all your photos where taken 'Today'.
+This tool uses ADB Pull and Push to backup your files, with dates still intact. That means that you can switch roms or phones without your photos and files getting all messed up and apps no longer think that all your photos where taken 'Today'.
 ## Usage
-This is basically just ADB, so you have to ensure that you can use ADB. Aka a PC (Windows as of now PC), a USB Cable and the ability to enable USB Debugging on your device.
+This is basically just ADB, so you have to ensure that you can use ADB. Aka a PC, a USB Cable and the ability to enable USB Debugging on your device.
 
-Once you have these, download the .zip file into somewhere with enough space, as the script will just back up your files a folder inside of it. I may add the ability to choose another directory if there's enough requests for it.
+Once you have these, download the .zip file into somewhere with enough space, as the script will just back up your files into a folder inside of it. I may add the ability to choose another directory if there's enough requests for it.
 
 Double-click the Backup.bat file (no need for admin) and just choose what you want to backup via entering numbers and pressing enter. 
 
